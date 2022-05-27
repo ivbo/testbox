@@ -1,2 +1,5 @@
 .gitattributes
 .strongbox-keyid
+
+.DS_Store
+
